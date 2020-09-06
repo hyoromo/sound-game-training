@@ -1,0 +1,63 @@
+baseURL = "https://hyoromo.github.io"
+publishDir = "docs"
+languageCode = "en-us"
+theme = "hugo-theme-learn"
+
+defaultContentLanguage = "en"
+metaDataFormat = "yaml"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  # Author of the site, will be used in meta information
+  author = "hyoromo"
+  # Description of the site, will be used in meta information
+  description = "Sound game training app"
+  # Shows a checkmark for visited pages on the menu
+  showVisitedLinks = false
+  # Disable search function. It will hide search bar
+  disableSearch = false
+  # Javascript and CSS cache are automatically busted when new version of site is generated.
+  # Set this to true to disable this behavior (some proxies don't handle well this optimization)
+  disableAssetsBusting = false
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = false
+  # A title for shortcuts in menu is set by default. Set this to true to disable it.
+  disableShortcutsTitle = false
+  # When using mulitlingual website, disable the switch language button.
+  disableLanguageSwitchingButton = false
+  # Hide breadcrumbs in the header and only show the current page title
+  disableBreadcrumb = true
+  # Hide Next and Previous page buttons normally displayed full height beside content
+  disableNextPrev = true
+  # Order sections in menu by "weight" or "title". Default to "weight"
+  ordersectionsby = "weight"
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "mine"
+  # Provide a list of custom css files to load relative from the `static/` folder in the site root.
+  custom_css = ["css/foo.css", "css/bar.css"]
+
+[Languages]
+[Languages.en]
+title = "Sound game training"
+weight = 1
+languageName = "English"
+
+[Languages.jp]
+title = "音ゲートレーニング"
+weight = 2
+languageName = "日本語"
+
+[Languages.zh]
+title = "音乐游戏培训"
+weight = 3
+languageName = "简体中文"
+
+[Languages.zh-TW]
+title = "音樂遊戲培訓"
+weight = 4
+languageName = "繁體中文"
