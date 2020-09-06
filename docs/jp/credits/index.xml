@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>クレジット on 音ゲートレーニング</title>
-    <link>https://hyoromo.github.io/jp/credits/</link>
+    <link>https://hyoromo.github.io/sound-game-training/jp/credits/</link>
     <description>Recent content in クレジット on 音ゲートレーニング</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hyoromo.github.io/jp/credits/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hyoromo.github.io/sound-game-training/jp/credits/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,4 +1,4 @@
-baseURL = "https://hyoromo.github.io"
+baseURL = "https://hyoromo.github.io/sound-game-training"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
