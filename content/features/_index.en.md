@@ -1,7 +1,7 @@
 ---
 title: Features
 weight: 1
-pre: "<b>1. </b>"
+pre: "<b>01. </b>"
 chapter: false
 ---
 

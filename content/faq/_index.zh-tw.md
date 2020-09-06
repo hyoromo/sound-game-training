@@ -1,7 +1,7 @@
 ---
 title: FAQ
 weight: 2
-pre: "<b>2. </b>"
+pre: "<b>02. </b>"
 chapter: false
 ---
 
