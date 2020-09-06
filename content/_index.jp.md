@@ -12,7 +12,7 @@ title: index
 
 まだダウンロードされていない方は以下のバナーから行ってください。
 
-[![App store link](img_appstore_banner.jp.png#floatleft)](https://itunes.apple.com/us/app/id1088874473?mt=8)
+[![App store link](img_appstore_banner.jp.png#floatleft)](https://itunes.apple.com/jp/app/id1088874473?mt=8)
 <br><br><br><br><br><br><br>
 
 既にダウンロード済みの方は画面左上のメニューから知りたい情報を選択してください。
