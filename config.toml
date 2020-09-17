@@ -49,12 +49,12 @@ languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
 name = "Character Introduction"
-url = "https://hyoromo.github.io/sound-game-training/en/char"
+url = "https://hyoromo.github.io/sound-game-training/chara"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
 name = "Credits"
-url = "https://hyoromo.github.io/sound-game-training/en/credits"
+url = "https://hyoromo.github.io/sound-game-training/credits"
 weight = 11
 
 [Languages.jp]
