@@ -49,7 +49,7 @@ languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
 name = "Character Introduction"
-url = "https://hyoromo.github.io/sound-game-training/en/character"
+url = "https://hyoromo.github.io/sound-game-training/en/char"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
@@ -64,7 +64,7 @@ languageName = "日本語"
 
 [[Languages.jp.menu.shortcuts]]
 name = "キャラ紹介"
-url = "https://hyoromo.github.io/sound-game-training/jp/character"
+url = "https://hyoromo.github.io/sound-game-training/jp/chara"
 weight = 10
 
 [[Languages.jp.menu.shortcuts]]
@@ -79,7 +79,7 @@ languageName = "简体中文"
 
 [[Languages.zh.menu.shortcuts]]
 name = "人物介绍"
-url = "https://hyoromo.github.io/sound-game-training/zh/character"
+url = "https://hyoromo.github.io/sound-game-training/zh/chara"
 weight = 10
 
 [[Languages.zh.menu.shortcuts]]
@@ -94,7 +94,7 @@ languageName = "繁體中文"
 
 [[Languages.zh-TW.menu.shortcuts]]
 name = "人物介紹"
-url = "https://hyoromo.github.io/sound-game-training/zh-tw/character"
+url = "https://hyoromo.github.io/sound-game-training/zh-tw/chara"
 weight = 10
 
 [[Languages.zh-TW.menu.shortcuts]]
