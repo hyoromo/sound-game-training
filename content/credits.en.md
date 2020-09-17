@@ -1,21 +1,20 @@
 ---
-title: 片頭
-weight: 99
-pre: "<b>99. </b>"
+title: Credits
+disableToc: true
 chapter: true
 ---
 
-## 片頭
+## Credits
 
-#### 應用開發 & 網站開發
+#### App development & Site development
 
 [hyoromo](https://twitter.com/hyoromo)
 
-#### 人物設計
+#### Character design
 
 [Sin:cK](https://www.sinck-strangebox.com/)
 
-#### 網站開發工具
+#### Site Development Tools
 
 [Hugo](https://gohugo.io/)<br>
 [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn/)

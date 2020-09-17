@@ -14,18 +14,25 @@
 	"content": "Video    Q. Do you think I can practice music games with an app that just plays videos?   Unlike other video playback apps, it has the following advantages. If you don\u0026rsquo;t see any advantages in these, this app is not worth using.\n No pausing by tapping the screen during playback You can set the playback range You can adjust the playback speed Video expansion, contraction and movement is possible       Q. Can I orient it vertically?   \u0026ldquo;Video Selection\u0026rdquo; You can change the orientation by tapping the \u0026ldquo;Device is rotating\u0026rdquo; icon in the bottom left corner of the screen.\n     Q. Is it possible to make a touch sound?   You can set up the touch sound from \u0026ldquo;Settings \u0026gt; Settings on Video \u0026gt; Sound\u0026rdquo; in the app.\n     Q. Is it possible to show the touch points?   You can set the display settings for touch from \u0026ldquo;Settings \u0026gt; Settings on Video \u0026gt; Point\u0026rdquo; in the app.\n     Q. Can I adjust the volume of the touch sound?   You cannot do this in the app. Please adjust the volume on your device.\n     Q. The home bar gets in the way during pseudo-play, making it difficult to play. Is there a home bar setting?   You can ignore the first home bar operation from \u0026ldquo;Settings \u0026gt; General \u0026gt; Home Bar\u0026rdquo; in the app.\n     Q. Can I make the pause button on the video screen unresponsive with a single tap?   On the \u0026ldquo;Folder Selection\u0026rdquo; screen, you can select \u0026ldquo;Edit \u0026gt; Settings on Video \u0026gt; Pause button\u0026rdquo; to change to long tap.\n     Q. Where can I set up the app\u0026#39;s touchline display?   On the \u0026ldquo;Folder Selection\u0026rdquo; screen, you can set it up by going to \u0026ldquo;Edit \u0026gt; Select Folder \u0026gt; App Type\u0026rdquo;.\n    Q. When will the \u0026#34;xxx\u0026#34; app type be added?   It is difficult to support the recent iOS devices due to the increase in the number of different ratios. In addition, there are more and more apps that allow you to adjust the touchline position on the sound game app side, so it is not worth it.\nThis is why the frequency of updating the app types is low. However, that doesn\u0026rsquo;t mean we don\u0026rsquo;t want to increase the frequency.\n  Requests/bugs    Q. Where do I make my request?   Please send us your request from \u0026ldquo;Settings \u0026gt; Support mail\u0026rdquo; in the app. We can\u0026rsquo;t accept all requests, but we will consider them.\nI\u0026rsquo;m also open to reviews on the AppStore. However, it is difficult to communicate with them, so we may not be able to understand their intentions.\n     Q. Where do I report bugs?   Please send us your request from \u0026ldquo;Settings \u0026gt; Support mail\u0026rdquo; in the app.\nSince it is difficult to communicate with AppStore reviews, it may not be possible to reproduce them and there may be a delay in response.\n    Q. YouTube videos are no longer playing in the app. Is this a bug?   It\u0026rsquo;s most likely a bug. Please contact us from \u0026ldquo;Settings \u0026gt; Support mail\u0026rdquo; in the app, including the URL of the video that is not playing.\n  Other    Q. Can\u0026#39;t I get rid of ads through in-app purchases?   I have no plans to sell ad removal items.\n     Q. Do you accept Donate?   Not accepted.\n    Q. Will you be distributing the Android app?   There are no plans to distribute it at the moment.\n  "
 },
 {
-	"uri": "https://hyoromo.github.io/sound-game-training/credits/",
-	"title": "Credits",
-	"tags": [],
-	"description": "",
-	"content": "Credits App development \u0026amp; Site development hyoromo\nCharacter design Sin:cK\nSite Development Tools Hugo\nhugo-theme-learn\n"
-},
-{
 	"uri": "https://hyoromo.github.io/sound-game-training/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://hyoromo.github.io/sound-game-training/chara/",
+	"title": "Character Introduction",
+	"tags": [],
+	"description": "",
+	"content": "Navigation character\n\u0026quot;Satoko\u0026quot;\nHer trademark is the silhouette of her haircut, which is shaped like a musical note♪\nShe has a positive attitude. She is improving her skills by trying difficult sound games.\nIt appears when there is a tutorial or announcement.\nDesign proposal Rough sketch "
+},
+{
+	"uri": "https://hyoromo.github.io/sound-game-training/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "",
+	"content": "Credits App development \u0026amp; Site development hyoromo\nCharacter design Sin:cK\nSite Development Tools Hugo\nhugo-theme-learn\n"
 },
 {
 	"uri": "https://hyoromo.github.io/sound-game-training/",

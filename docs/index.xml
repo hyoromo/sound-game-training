@@ -10,5 +10,31 @@
 	<atom:link href="https://hyoromo.github.io/sound-game-training/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Character Introduction</title>
+      <link>https://hyoromo.github.io/sound-game-training/chara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/sound-game-training/chara/</guid>
+      <description>Navigation character
+&amp;quot;Satoko&amp;quot;
+Her trademark is the silhouette of her haircut, which is shaped like a musical note♪
+She has a positive attitude. She is improving her skills by trying difficult sound games.
+It appears when there is a tutorial or announcement.
+Design proposal Rough sketch </description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://hyoromo.github.io/sound-game-training/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/sound-game-training/credits/</guid>
+      <description>Credits App development &amp;amp; Site development hyoromo
+Character design Sin:cK
+Site Development Tools Hugo
+hugo-theme-learn</description>
+    </item>
+    
   </channel>
 </rss>

@@ -10,5 +10,31 @@
 	<atom:link href="https://hyoromo.github.io/sound-game-training/zh/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>人物介绍</title>
+      <link>https://hyoromo.github.io/sound-game-training/zh/chara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/sound-game-training/zh/chara/</guid>
+      <description>一个角色来引导你
+&amp;quot;Satoko&amp;quot;
+她的商标是她的发型轮廓，形状像一个音符♪
+她的个性很积极。 她正在通过尝试高难度的声音游戏来提高自己的技能。
+当有教程和公告时就会出现。
+设计方案 草图 </description>
+    </item>
+    
+    <item>
+      <title>片头</title>
+      <link>https://hyoromo.github.io/sound-game-training/zh/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/sound-game-training/zh/credits/</guid>
+      <description>片头 应用开发 &amp;amp; 网站开发 hyoromo
+人物设计 Sin:cK
+网站开发工具 Hugo
+hugo-theme-learn</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,21 +1,20 @@
 ---
-title: 片头
-weight: 99
-pre: "<b>99. </b>"
+title: クレジット
+disableToc: true
 chapter: true
 ---
 
-## 片头
+## クレジット
 
-#### 应用开发 & 网站开发
+#### アプリ開発 & サイト制作
 
 [hyoromo](https://twitter.com/hyoromo)
 
-#### 人物设计
+#### キャラクタデザイン
 
 [Sin:cK](https://www.sinck-strangebox.com/)
 
-#### 网站开发工具
+#### サイト制作ツール
 
 [Hugo](https://gohugo.io/)<br>
 [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn/)
