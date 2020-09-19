@@ -119,3 +119,53 @@ img[src$='#floatleft']
 	height: auto;
 	float: left;
 }
+
+.box
+{
+    width: 160px;
+}
+.img-right {
+    margin-left: auto;
+}
+
+/* フキダシ */
+.balloon{
+  position: relative;
+  padding: 20px;
+  background-color: #333333;
+  color: #ffffff;
+  border-radius: 15px;
+  top: 15px;
+}
+/* 色付きの半円 */
+.balloon::before{
+  content: '';
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  transform: rotate(210deg);
+  left: 20px;
+  bottom: -15px;
+  border-left: 20px solid #333333;
+  border-top: 20px solid #333333;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+}
+/* 白い半円 */
+.balloon::after{
+  content: '';
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  transform: rotate(225deg);
+  left: 40px;
+  bottom: -20px;
+  border-left: 20px solid #ffffff;
+  border-top: 20px solid #ffffff;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+}
