@@ -48,12 +48,12 @@ weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
-name = "Character Introduction"
+name = "<i class='fas fa-smile'></i> Character Introduction"
 url = "https://hyoromo.github.io/sound-game-training/chara"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
-name = "Credits"
+name = "<i class='fas fa-sticky-note'></i> Credits"
 url = "https://hyoromo.github.io/sound-game-training/credits"
 weight = 11
 
@@ -63,12 +63,12 @@ weight = 2
 languageName = "日本語"
 
 [[Languages.jp.menu.shortcuts]]
-name = "キャラ紹介"
+name = "<i class='fas fa-smile'></i> キャラ紹介"
 url = "https://hyoromo.github.io/sound-game-training/jp/chara"
 weight = 10
 
 [[Languages.jp.menu.shortcuts]]
-name = "クレジット"
+name = "<i class='fas fa-sticky-note'></i> クレジット"
 url = "https://hyoromo.github.io/sound-game-training/jp/credits"
 weight = 11
 
@@ -78,12 +78,12 @@ weight = 3
 languageName = "简体中文"
 
 [[Languages.zh.menu.shortcuts]]
-name = "人物介绍"
+name = "<i class='fas fa-smile'></i> 人物介绍"
 url = "https://hyoromo.github.io/sound-game-training/zh/chara"
 weight = 10
 
 [[Languages.zh.menu.shortcuts]]
-name = "片头"
+name = "<i class='fas fa-sticky-note'></i> 片头"
 url = "https://hyoromo.github.io/sound-game-training/zh/credits"
 weight = 11
 
@@ -93,11 +93,11 @@ weight = 4
 languageName = "繁體中文"
 
 [[Languages.zh-TW.menu.shortcuts]]
-name = "人物介紹"
+name = "<i class='fas fa-smile'></i> 人物介紹"
 url = "https://hyoromo.github.io/sound-game-training/zh-tw/chara"
 weight = 10
 
 [[Languages.zh-TW.menu.shortcuts]]
-name = "片頭"
+name = "<i class='fas fa-sticky-note'></i> 片頭"
 url = "https://hyoromo.github.io/sound-game-training/zh-tw/credits"
 weight = 11
