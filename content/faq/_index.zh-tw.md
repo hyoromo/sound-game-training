@@ -64,7 +64,7 @@ chapter: false
 <!-- Q. 疑似プレイ中にホームバーが邪魔でプレイし難いです。ホームバー設定は無いですか？ -->
 {{%expand "Q. \"Home Bar\" 的存在，讓人難以發揮。不是有 \"Home Bar\" 的設置嗎？" %}}
 <div class="balloon">
-在應用中的 "設置 > 關於整個 > Home Bar" 中可以忽略第一個 "Home Bar" 操作。
+在應用中的 "設置 > 視頻 > Home Bar" 中可以忽略第一個 "Home Bar" 操作。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

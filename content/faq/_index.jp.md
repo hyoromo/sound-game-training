@@ -58,7 +58,7 @@ chapter: false
 
 {{%expand "Q. 疑似プレイ中にホームバーが邪魔でプレイし難いです。ホームバー設定は無いですか？" %}}
 <div class="balloon">
-アプリ内の「設定 > 全般 ホームバー」から、1回目のホームバー操作を無視する設定が行えます。
+アプリ内の「設定 > 動画 ホームバー」から、1回目のホームバー操作を無視する設定が行えます。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

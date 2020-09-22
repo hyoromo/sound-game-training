@@ -64,7 +64,7 @@ You cannot do this in the app. Please adjust the volume on your device.
 <!-- Q. 疑似プレイ中にホームバーが邪魔でプレイし難いです。ホームバー設定は無いですか？ -->
 {{%expand "Q. The home bar gets in the way during pseudo-play, making it difficult to play. Is there a home bar setting?" %}}
 <div class="balloon">
-You can ignore the first home bar operation from "Settings > General > Home Bar" in the app.
+You can ignore the first home bar operation from "Settings > Video > Home Bar" in the app.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
