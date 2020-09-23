@@ -74,7 +74,7 @@ You can ignore the first home bar operation from "Settings > Video > Home Bar" i
 {{%expand "Q. I'm having trouble with the tap position and pause button being in the same place in some play videos. Can you fix this problem?" %}}
 <div class="balloon">
 You can change the pause button to a long tap.<br>
-On the "Folder Selection" screen, you can select "Edit > Settings on Video > Pause button" to change to long tap.
+On the "Folder List" screen, you can select "Edit > Settings on Video > Pause button" to change to long tap.
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -83,7 +83,7 @@ On the "Folder Selection" screen, you can select "Edit > Settings on Video > Pau
 <!-- Q. アプリの判定ライン表示の設定は何処から行えますか？ -->
 {{%expand "Q. Where can I set up the app's touchline display?" %}}
 <div class="balloon">
-On the "Folder Selection" screen, you can set it up by going to "Edit > Select Folder > App Type".
+On the "Folder List" screen, you can set it up by going to "Edit > Select Folder > App Type".
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -120,7 +120,7 @@ It is difficult to support the recent iOS devices due to the increase in the num
 <!-- Q. 要望は何処からすればいいですか？ -->
 {{%expand "Q. Where do I make my request?" %}}
 <div class="balloon">
-Please send us your request from "Settings > Support mail" in the app. We can't accept all requests, but we will consider them.<br>I'm also open to reviews on the AppStore. However, it is difficult to communicate with them, so we may not be able to understand their intentions.
+Please send us your request from "Contact" in the app. We can't accept all requests, but we will consider them.<br>I'm also open to reviews on the AppStore. However, it is difficult to communicate with them, so we may not be able to understand their intentions.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -129,7 +129,7 @@ Please send us your request from "Settings > Support mail" in the app. We can't 
 <!-- Q. バグは何処から報告すればいいですか？ -->
 {{%expand "Q. Where do I report bugs?" %}}
 <div class="balloon">
-Please send us your request from "Settings > Support mail" in the app.<br>Since it is difficult to communicate with AppStore reviews, it may not be possible to reproduce them and there may be a delay in response.
+Please send us your request from "Contact" in the app.<br>Since it is difficult to communicate with AppStore reviews, it may not be possible to reproduce them and there may be a delay in response.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -138,7 +138,7 @@ Please send us your request from "Settings > Support mail" in the app.<br>Since 
 <!-- Q. YouTubeの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
 {{%expand "Q. YouTube videos are no longer playing in the app. Is this a bug?" %}}
 <div class="balloon">
-It's most likely a bug. Please contact us from "Settings > Support mail" in the app, including the URL of the video that is not playing.
+It's most likely a bug. Please contact us from "Contact" in the app, including the URL of the video that is not playing.
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

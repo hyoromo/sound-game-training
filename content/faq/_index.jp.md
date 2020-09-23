@@ -67,7 +67,7 @@ chapter: false
 {{%expand "Q. プレイ動画によってはタップ位置と一時停止ボタンが同じ場所で困っています。どうにかなりませんか？" %}}
 <div class="balloon">
 一時停止ボタンをロングタップで反応するよう設定可能です。<br>
-フォルダ選択画面で「編集 > 動画上の設定 > 一時停止ボタン」からロングタップを選択する事で変更されます♪~
+フォルダ一覧画面で「編集 > 動画上の設定 > 一時停止ボタン」からロングタップを選択する事で変更されます♪~
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -75,7 +75,7 @@ chapter: false
 
 {{%expand "Q. 判定ライン表示のアプリ種類は何処から設定変更出来ますか？" %}}
 <div class="balloon">
-フォルダ選択画面で「編集> フォルダを選択 > アプリ種類 」から設定出来ます。
+フォルダ一覧画面で「編集> フォルダを選択 > アプリ種類 」から設定出来ます。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -109,7 +109,7 @@ chapter: false
 
 {{%expand "Q. 要望は何処からすればいいですか？" %}}
 <div class="balloon">
-アプリ内の「設定 > 問い合わせ」から送ってください。対応出来るかは分かりませんが検討します。<br>AppStoreのレビューでは意図を汲み取れきれず見送る事があるので、メールでの問い合わせをオススメしています。
+アプリ内の動画一覧画面の左下の「問い合わせ」から送ってください。対応出来るかは分かりませんが検討します。<br>AppStoreのレビューでは意図を汲み取れきれず見送る事があるので、メールでの問い合わせをオススメしています。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -117,7 +117,7 @@ chapter: false
 
 {{%expand "Q. バグは何処から報告すればいいですか？" %}}
 <div class="balloon">
-アプリ内の「設定 > 問い合わせ」から送ってください。<br>AppStoreのレビューだとやり取りが行い難いので対応出来ない事があります。なのでメールで問い合わせして貰えると助かります。
+アプリ内の動画一覧画面の左下の「問い合わせ」から送ってください。<br>AppStoreのレビューだとやり取りが行い難いので対応出来ない事があります。なのでメールで問い合わせして貰えると助かります。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -126,7 +126,7 @@ chapter: false
 {{%expand "Q. YouTubeの動画がアプリ内で再生されなくなりました。これはバグですか？" %}}
 <div class="balloon">
 すみません。。。バグの可能性が高いです。<br>
-アプリ内の「設定 > 問い合わせ」から、再生されない動画URLを含めて連絡ください。
+アプリ内の動画一覧画面の左下の「問い合わせ」から、再生されない動画URLを含めて連絡ください。
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

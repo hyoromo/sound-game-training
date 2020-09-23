@@ -74,7 +74,7 @@ chapter: false
 {{%expand "Q. 在一些視頻中，我遇到了點擊位置和暫停按鈕在同一個地方的問題。你能解決這個問題嗎？" %}}
 <div class="balloon">
 你可以將暫停按鈕改為長按。<br>
-您可以在 "選擇一個文件夾" 頁面的 "編輯 > 视频的设置 > 暫停按鈕" 中更改設置為長按。
+您可以在 "文件夾列表" 頁面的 "編輯 > 视频的设置 > 暫停按鈕" 中更改設置為長按。
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -83,7 +83,7 @@ chapter: false
 <!-- Q. アプリの判定ライン表示の設定は何処から行えますか？ -->
 {{%expand "Q. 哪裡可以設置App的觸控線顯示？" %}}
 <div class="balloon">
-在 "選擇一個文件夾" 頁面，進入 "編輯 > 選擇文件夾 > 應用類型" 即可進行設置。
+在 "文件夾列表" 頁面，進入 "編輯 > 選擇文件夾 > 應用類型" 即可進行設置。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -120,7 +120,7 @@ chapter: false
 <!-- Q. 要望は何処からすればいいですか？ -->
 {{%expand "Q. 我在哪裡提出請求？" %}}
 <div class="balloon">
-請通過應用中的 "設置 > 支持郵件" 發送給我們。我們不能滿足所有的要求，但我們會考慮。<br>我們也接受AppStore中的評論，但很難溝通。當我不明白的時候，我就放棄了。
+請通過應用中的 "聯繫信息" 發送給我們。我們不能滿足所有的要求，但我們會考慮。<br>我們也接受AppStore中的評論，但很難溝通。當我不明白的時候，我就放棄了。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -129,7 +129,7 @@ chapter: false
 <!-- Q. バグは何処から報告すればいいですか？ -->
 {{%expand "Q. 我在哪里報告錯誤？" %}}
 <div class="balloon">
-請通過應用中的 "設置 > 支持郵件" 發送給我們。<br>在AppStore的評論區很難溝通。無法確認該錯誤，可能會延遲響應。
+請通過應用中的 "聯繫信息" 發送給我們。<br>在AppStore的評論區很難溝通。無法確認該錯誤，可能會延遲響應。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -138,7 +138,7 @@ chapter: false
 <!-- Q. YouTubeの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
 {{%expand "Q. YouTubeの動画がアプリ内で再生されなくなりました。これはバグですか？" %}}
 <div class="balloon">
-這很可能是一個bug。請通過應用中的 "設置 > 支持郵件" 與我們聯繫，包括無法播放的視頻的URL。
+這很可能是一個bug。請通過應用中的 "聯繫信息" 與我們聯繫，包括無法播放的視頻的URL。
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

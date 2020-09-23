@@ -74,7 +74,7 @@ chapter: false
 {{%expand "Q. 在一些视频中，我遇到了点击位置和暂停按钮在同一个地方的问题。 你能解决这个问题吗？" %}}
 <div class="balloon">
 你可以将暂停按钮改为长按。<br>
-您可以在 "选择一个文件夹" 页面的 "编辑 > 视频的设置 > 暂停按钮" 中更改设置为长按。
+您可以在 "文件夹列表" 页面的 "编辑 > 视频的设置 > 暂停按钮" 中更改设置为长按。
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -83,7 +83,7 @@ chapter: false
 <!-- Q. アプリの判定ライン表示の設定は何処から行えますか？ -->
 {{%expand "Q. 哪里可以设置App的触控线显示？" %}}
 <div class="balloon">
-在 "选择一个文件夹 "页面，进入 "编辑 > 选择文件夹 > 应用类型" 即可进行设置。
+在 "文件夹列表" 页面，进入 "编辑 > 选择文件夹 > 应用类型" 即可进行设置。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -120,7 +120,7 @@ chapter: false
 <!-- Q. 要望は何処からすればいいですか？ -->
 {{%expand "Q. 我在哪里提出请求？" %}}
 <div class="balloon">
-请通过应用中的 "设置 > 支持邮件" 发送给我们。我们不能满足所有的要求，但我们会考虑。<br>我们也接受AppStore中的评论，但很难沟通。 当我不明白的时候，我就放弃了。
+请通过应用中的 "联系信息" 发送给我们。我们不能满足所有的要求，但我们会考虑。<br>我们也接受AppStore中的评论，但很难沟通。 当我不明白的时候，我就放弃了。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -129,7 +129,7 @@ chapter: false
 <!-- Q. バグは何処から報告すればいいですか？ -->
 {{%expand "Q. 我在哪里报告错误？" %}}
 <div class="balloon">
-请通过应用中的 "设置 > 支持邮件" 发送给我们。<br>在AppStore的评论区很难沟通。 无法确认该错误，可能会延迟响应。
+请通过应用中的 "联系信息" 发送给我们。<br>在AppStore的评论区很难沟通。 无法确认该错误，可能会延迟响应。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -138,7 +138,7 @@ chapter: false
 <!-- Q. YouTubeの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
 {{%expand "Q. YouTube视频不再在应用中播放。 这是一个bug吗？" %}}
 <div class="balloon">
-这很可能是一个bug。请通过应用中的 "设置 > 支持邮件" 与我们联系，包括无法播放的视频的URL。
+这很可能是一个bug。请通过应用中的 "联系信息" 与我们联系，包括无法播放的视频的URL。
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
