@@ -99,11 +99,12 @@ There is no way to solve this problem within the app.<br>I do hope to respond to
 <br>
 
 <!-- Q. 数秒だけ巻き戻し/早送りする機能はありますか？ -->
-{{%expand "Q. Is there a function to rewind/fast forward for a few seconds?" %}}
+{{%expand "Q. Is there a function to fast forward/rewind for a few seconds?" %}}
 <div class="balloon">
-Not supported.<br>I'd like to support it, but I'm at the stage where I'm not sure how to implement it.
+You can set it from the "Folder Settings > Fast forward/rewind button" button at the bottom left of the folder/video list screen.<br>
+You can also adjust the position of the display on the video screen and the number of seconds ♪~
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

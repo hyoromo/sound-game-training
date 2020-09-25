@@ -101,9 +101,10 @@ chapter: false
 <!-- Q. 数秒だけ巻き戻し/早送りする機能はありますか？ -->
 {{%expand "Q. 有没有倒带/快进几秒的功能？" %}}
 <div class="balloon">
-不支持。<br>我想支持这个，但我不知道如何实现。
+它的存在。 您可以在文件夹/视频列表界面左下方的 "文件夹设置 > 快进/后退按钮" 按钮中进行设置。<br>
+您还可以调整视频画面的显示位置和秒数 ♪~
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

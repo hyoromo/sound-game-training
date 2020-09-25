@@ -91,9 +91,10 @@ chapter: false
 
 {{%expand "Q. 数秒だけ巻き戻し/早送りする機能はありますか？" %}}
 <div class="balloon">
-ありません。<br>対応したいとは思っていますが、どのような形で実装しようか迷っています。
+あります。フォルダ/動画一覧画面の左下にある「フォルダ設定 > 早送り/巻き戻しボタン」から設定出来ます。<br>
+動画画面上での表示位置、秒数の指定も出来るので調整してみてください ♪~
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 
@@ -153,7 +154,7 @@ chapter: false
 {{%expand "Q. Androidアプリは配信しないんですか？" %}}
 <div class="balloon">
 配信する予定は今の所ありません。<br>
-自分で使うために開発しているアプリなので、普段使いしていないAndroid向けに開発するモチベーションが保てません。。。
+自分で使うために開発しているアプリなので、普段使いしていないAndroid向けに開発するモチベーションを持っていません。。。
 </div>
 <div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

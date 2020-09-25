@@ -83,6 +83,7 @@ There are many other features that make it easier to practice.
 - Zoom in/out and adjust the position of the video<br>Scaling and positioning can be done to make the video fit the device resolution
 - Flipping the video screen<br>The video screen can be flipped left to right
 - Support for both portrait and landscape video<br>You can fix your device orientation in portrait or landscape mode
+- Shortcut button to rewind/fast-forward for a few seconds during playback<br>The shortcut button is set up so that you can easily manipulate the time without having to pause and operate the seek bar
 
 ## Supports a variety of game touchlines
 
