@@ -128,7 +128,7 @@ img[src$='#floatleft']
     margin-left: auto;
 }
 
-/* フキダシ */
+/* FAQのフキダシ */
 .balloon{
   position: relative;
   padding: 20px;
