@@ -2,7 +2,7 @@
 title: index
 ---
 
-# 音乐游戏培训
+![top banner](top_banner.zh.png)
 
 {{% notice info %}}
 本网站以v2.0.0版本的应用内容为基础。请注意，可能与最新版本有差异。
@@ -10,9 +10,8 @@ title: index
 
 您可以使用视频随意玩困难和未完成的音乐游戏。
 
-如果您还没有下载，请点击下面的横幅进行下载。
+请点击下面的横幅下载软件。
 
-[![App store link](img_appstore_banner.zh.png#floatleft)](https://apps.apple.com/cn/app/id1088874473)
-<br><br><br><br><br><br><br>
+[![App store link](img_appstore_banner.zh.png)](https://apps.apple.com/cn/app/id1088874473)
 
-如果您已经下载了，请在屏幕左上方的菜单中选择您想了解的信息。
+应用信息在屏幕左上方的菜单中列出。

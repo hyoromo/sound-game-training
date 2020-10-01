@@ -2,7 +2,7 @@
 title: index
 ---
 
-# 音樂遊戲培訓
+![top banner](top_banner.zh-tw.png)
 
 {{% notice info %}}
 本網站以v2.0.0版本的應用內容為基礎。請注意，可能與最新版本有差異。
@@ -10,9 +10,8 @@ title: index
 
 您可以使用視頻隨意玩困難和未完成的音樂遊戲。
 
-如果您還沒有下載，請點擊下面的橫幅進行下載。
+請點擊下面的橫幅下載軟件。
 
-[![App store link](img_appstore_banner.zh-tw.png#floatleft)](https://apps.apple.com/tw/app/id1088874473)
-<br><br><br><br><br><br><br>
+[![App store link](img_appstore_banner.zh-tw.png)](https://apps.apple.com/tw/app/id1088874473)
 
-如果您已經下載了，請在屏幕左上方的菜單中選擇您想了解的信息。
+應用信息在屏幕左上方的菜單中列出。
