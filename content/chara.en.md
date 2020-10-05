@@ -4,7 +4,8 @@ disableToc: true
 chapter: false
 ---
 
-![satoko profile](https://hyoromo.github.io/sound-game-training/images/satoko_profile.en.png)
+![satoko profile](https://hyoromo.github.io/sound-game-training/images/satoko_profile.en.png#imgleft)
+<div class="clear clear_box"></div>
 
 It appears when there is a tutorial or announcement.<br>
 <br>

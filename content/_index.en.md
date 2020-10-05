@@ -12,6 +12,7 @@ You can play difficult and uncompleted music games as many times as you like wit
 
 Please download from the banner below.
 
-[![App store link](img_appstore_banner.en.png)](https://itunes.apple.com/us/app/id1088874473?mt=8)
+[![App store link](img_appstore_banner.en.png#imgleft)](https://itunes.apple.com/us/app/id1088874473?mt=8)
+<div class="clear clear_box"></div>
 
 App information is listed in the menu at the top left of the screen.

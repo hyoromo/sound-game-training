@@ -4,7 +4,8 @@ disableToc: true
 chapter: false
 ---
 
-![satoko profile](https://hyoromo.github.io/sound-game-training/images/satoko_profile.zh-tw.png)
+![satoko profile](https://hyoromo.github.io/sound-game-training/images/satoko_profile.zh-tw.png#imgleft)
+<div class="clear clear_box"></div>
 
 當有教程和公告時就會出現。<br>
 <br>

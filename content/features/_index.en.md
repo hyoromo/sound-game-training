@@ -41,7 +41,7 @@ After this step, you can return to the "Video List" screen and your added videos
 #### Transfer from PC
 
 It's a way to transfer videos from the Music (formerly iTunes) app on your PC to your device's app storage.<br>
-The method for transferring videos from your PC depends on the version of the PC or music app you're using, so please search for the method.<br>
+"<a href= "https://support.apple.com/en-us/HT201301" >Use iTunes to share files between your computer and your iOS or iPadOS device</a>" page will tell you how to transfer it to the app, please refer here.<br>
 Here's how you can add them in this app.
 
 1. Open the "Video List" screen
@@ -87,6 +87,8 @@ There are many other features that make it easier to practice.
 
 ## Supports a variety of game touchlines
 
+![video scale](img_video_scale.png#imgleft)
+<div class="clear clear_box"></div>
 The touchline of the sound game is often different for each device. The touchline position of the desired video and the device may be different.<br>
 To address this issue, the app supports a guide display to help you align the touchline on your device.<br><br>
 Supported games are listed below.<br>

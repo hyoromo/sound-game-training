@@ -4,7 +4,8 @@ disableToc: true
 chapter: false
 ---
 
-![satoko profile](https://hyoromo.github.io/sound-game-training/images/satoko_profile.jp.png)
+![satoko profile](https://hyoromo.github.io/sound-game-training/images/satoko_profile.jp.png#imgleft)
+<div class="clear clear_box"></div>
 
 アプリ上ではチュートリアルやお知らせがある時に登場します。<br>
 サト子は「英語表記アプリ名 "Sound game Training" する子」から付けた名前です。<br>

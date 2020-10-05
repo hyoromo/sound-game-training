@@ -12,6 +12,7 @@ title: index
 
 請點擊下面的橫幅下載軟件。
 
-[![App store link](img_appstore_banner.zh-tw.png)](https://apps.apple.com/tw/app/id1088874473)
+[![App store link](img_appstore_banner.zh-tw.png#imgleft)](https://apps.apple.com/tw/app/id1088874473)
+<div class="clear clear_box"></div>
 
 應用信息在屏幕左上方的菜單中列出。

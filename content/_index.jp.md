@@ -12,6 +12,7 @@ title: index
 
 ダウンロードは以下のバナー先から行ってください。
 
-[![App store link](img_appstore_banner.jp.png)](https://itunes.apple.com/jp/app/id1088874473?mt=8)
+[![App store link](img_appstore_banner.jp.png#imgleft)](https://itunes.apple.com/jp/app/id1088874473?mt=8)
+<div class="clear clear_box"></div>
 
 画面左上のメニューにアプリ情報を掲載しています。
