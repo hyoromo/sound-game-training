@@ -120,6 +120,18 @@ img[src$='#floatleft']
 	float: left;
 }
 
+img[src$='#imgleft']
+{
+	max-width: 100%;
+	width: auto; /* ie8 */
+	height: auto;
+	float: left;
+}
+
+.clear_box {
+    clear:  both;
+}
+
 .box
 {
     width: 240px;
