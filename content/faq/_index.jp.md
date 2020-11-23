@@ -98,6 +98,14 @@ chapter: false
 {{% /expand%}}
 <br>
 
+{{%expand "Q. 巻き戻し/早送りボタンを位置変更または非表示できますか？" %}}
+<div class="balloon">
+位置の変更、非表示ともに出来ます。<br>動画一覧画面の左下にある「フォルダ設定 > 早送り/巻き戻しボタン」から設定出来ます。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 {{%expand "Q. ◯◯のアプリ種類はいつ増えますか？" %}}
 <div class="balloon">
 最近のiOS端末もアス比種類が増えてきたため対応が難しくなっております。<br>

@@ -96,11 +96,15 @@ Supported games are listed below.<br>
 - Deemo
 - VOEZ
 - Arcaea
+- Dynamix
 - BanG Dream!
 - Project Sekai Colorful Stage! feat. Hatsune Miku
 - THE IDOLM@STER MILLION LIVE! Theater Days
 - THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE
 - Love Live! School idol festival
+- HYPNOSISMIC -A.R.B-
+- Ensemble Stars!! Music
+- Re:Stage! Prism Step
 - D4DJ Groovy Mix
 - Tokyo 7th Sisters
 - Uta Macross

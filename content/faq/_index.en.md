@@ -108,6 +108,16 @@ You can also adjust the position of the display on the video screen and the numb
 {{% /expand%}}
 <br>
 
+<!-- Q. 巻き戻し/早送りボタンを位置変更または非表示できますか？ -->
+{{%expand "Q. Can I reposition or hide the rewind/fast forward button?" %}}
+<div class="balloon">
+You can change or hide the position.<br>
+You can set it from the "Folder Settings > Fast forward/rewind button" button at the bottom left of the folder/video list screen.
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. ◯◯のアプリ種類はいつ増えますか？ -->
 {{%expand "Q. When will the \"xxx\" app type be added?" %}}
 <div class="balloon">

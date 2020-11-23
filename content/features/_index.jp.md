@@ -101,10 +101,15 @@ YouTube動画をダウンロードする訳ではないため、本アプリで�
 - Deemo
 - VOEZ
 - Arcaea
+- Dynamix
+- ヒプノシスマイク -A.R.B-
+- あんさんぶるスターズ！！Music
+- Re:ステージ！プリズムステップ
 - Tokyo 7th シスターズ
 - D4DJ Groovy Mix
 - 歌マクロス
 - ガールフレンド（♪）
+-
 
 {{% notice warning %}}
 プレイ動画を撮影した端末によっては、ラインに合わせられない事があります。

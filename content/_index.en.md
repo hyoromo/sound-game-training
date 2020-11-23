@@ -5,7 +5,7 @@ title: index
 ![top banner](top_banner.en.png)
 
 {{% notice info %}}
-This site is based on the content of the application in v2.0.0. Please note that there may be differences with the latest version.
+This site is based on the content of the application in v2.0.2. Please note that there may be differences with the latest version.
 {{% /notice %}}
 
 You can play difficult and uncompleted music games as many times as you like with videos.

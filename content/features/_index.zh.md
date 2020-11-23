@@ -96,11 +96,15 @@ YouTube是谷歌的视频分享服务。存在别人上传的音乐游戏视频�
 - Deemo
 - VOEZ
 - Arcaea
+- Dynamix
 - BanG Dream! 少女乐团派对
 - 偶像大师 MILLION LIVE! Theater Days
 - 偶像大师 CINDERELLA GIRLS STARLIGHT STAGE
 - Love Live! 学园偶像祭
 - Project Sekai Colorful Stage! feat. 初音未来
+- HYPNOSISMIC -A.R.B-
+- 偶像梦幻祭2
+- Re:Stage! Prism Step
 - D4DJ Groovy Mix
 - Tokyo 7th Sisters
 - Uta Macross

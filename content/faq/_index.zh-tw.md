@@ -108,6 +108,16 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. 巻き戻し/早送りボタンを位置変更または非表示できますか？ -->
+{{%expand "Q. 我可以重新定位或隱藏倒帶/快進按鈕嗎？" %}}
+<div class="balloon">
+你可以改變或隱藏位置。<br>
+您可以在文件夾/視頻列表界面左下方的 "文件夾設置 > 快進/後退按鈕" 按鈕中進行設置。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. ◯◯のアプリ種類はいつ増えますか？ -->
 {{%expand "Q. \"xxx\" 應用類型何時才能增加？" %}}
 <div class="balloon">
