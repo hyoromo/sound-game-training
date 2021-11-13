@@ -153,6 +153,15 @@ chapter: false
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
+<br>
+
+<!-- Q. カメラロールの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
+{{%expand "Q. 我的相機捲中的視頻不再在應用程序中播放。這是一個錯誤嗎？" %}}
+<div class="balloon">
+如果你從你的相機捲中刪除了一個視頻，它將不再播放。<br>如果你的相機捲裡有一個視頻，但它不能播放，試著重新啟動應用程序/設備，看看是否能解決問題。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
 
 ## 其他
 

@@ -85,6 +85,13 @@ There are many other features that make it easier to practice.
 - Support for both portrait and landscape video<br>You can fix your device orientation in portrait or landscape mode
 - Shortcut button to rewind/fast-forward for a few seconds during playback<br>The shortcut button is set up so that you can easily manipulate the time without having to pause and operate the seek bar
 
+## Bookmark the playback position
+
+![video scale](img_video_bookmark.png#imgleft)
+<div class="clear clear_box"></div>
+There is a function to register the start/end position of video playback as a bookmark.<br>
+By setting the start/end position of playback for each number, you can quickly switch the playback position for the part you want to practice.<br>
+
 ## Supports a variety of game touchlines
 
 ![video scale](img_video_scale.png#imgleft)
@@ -101,6 +108,7 @@ Supported games are listed below.<br>
 - Project Sekai Colorful Stage! feat. Hatsune Miku
 - THE IDOLM@STER MILLION LIVE! Theater Days
 - THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE
+- THE IDOLM@STER SideM GROWING STARS
 - Love Live! School idol festival
 - HYPNOSISMIC -A.R.B-
 - Ensemble Stars!! Music
@@ -109,6 +117,7 @@ Supported games are listed below.<br>
 - Tokyo 7th Sisters
 - Uta Macross
 - Girlfriend (note)
+- Touhou Danmaku Kagura
 
 {{% notice warning %}}
 Depending on the device where you filmed the play video, you may not be able to adjust to the touch position.

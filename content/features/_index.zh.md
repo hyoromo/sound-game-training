@@ -85,6 +85,13 @@ YouTube是谷歌的视频分享服务。存在别人上传的音乐游戏视频�
 - 支持视频屏幕的纵向和横向方向<br>您可以在纵向或横向模式下固定您的设备方向
 - 在播放過程中，可倒退/快進幾秒鐘的快捷鍵<br>不需要暫停和操縱時間
 
+## 收藏播放位置
+
+![video scale](img_video_bookmark.png#imgleft)
+<div class="clear clear_box"></div>
+有一个功能可以为视频播放的开始/结束位置做书签。<br>
+你可以为每个数字设置一个开始/结束的位置，这样你就可以快速改变你要练习的部分的播放位置。<br>
+
 ## 支持各种游戏应用中的触摸线
 
 ![video scale](img_video_scale.png#imgleft)
@@ -100,6 +107,7 @@ YouTube是谷歌的视频分享服务。存在别人上传的音乐游戏视频�
 - BanG Dream! 少女乐团派对
 - 偶像大师 MILLION LIVE! Theater Days
 - 偶像大师 CINDERELLA GIRLS STARLIGHT STAGE
+- 偶像大师 SideM GROWING STARS
 - Love Live! 学园偶像祭
 - Project Sekai Colorful Stage! feat. 初音未来
 - HYPNOSISMIC -A.R.B-
@@ -109,6 +117,7 @@ YouTube是谷歌的视频分享服务。存在别人上传的音乐游戏视频�
 - Tokyo 7th Sisters
 - Uta Macross
 - Girl friend (Onpu)
+- Touhou Danmaku Kagura
 
 {{% notice warning %}}
 根据您拍摄播放视频的设备，可能无法调整到触摸位置。

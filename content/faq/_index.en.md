@@ -153,6 +153,15 @@ It's most likely a bug. Please contact us from "Contact" in the app, including t
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
+<br>
+
+<!-- Q. カメラロールの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
+{{%expand "Q. Videos from my camera roll are no longer playing in the app. Is this a bug?" %}}
+<div class="balloon">
+Deleting a video from the camera roll will stop it from playing.<br>If you have videos in your camera roll but they do not play, try restarting the app/device to see if that solves the problem.
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
 
 ## Other
 

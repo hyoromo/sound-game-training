@@ -85,6 +85,13 @@ YouTube是谷歌的視頻分享服務。存在別人上傳的音樂遊戲視頻�
 - 支持視頻屏幕的縱向和橫向方向<br>您可以在縱向或橫向模式下固定您的設備方向
 - 在播放过程中，可倒退/快进几秒钟的快捷键<br>不需要暂停和操纵时间
 
+## 收藏播放位置
+
+![video scale](img_video_bookmark.png#imgleft)
+<div class="clear clear_box"></div>
+有一個功能可以為視頻播放的開始/結束位置做書籤。<br>
+你可以為每個數字設置一個開始/結束的位置，這樣你就可以快速改變你要練習的部分的播放位置。<br>
+
 ## 支持各種遊戲應用中的觸摸線
 
 ![video scale](img_video_scale.png#imgleft)
@@ -100,6 +107,7 @@ YouTube是谷歌的視頻分享服務。存在別人上傳的音樂遊戲視頻�
 - BanG Dream! 少女樂團派對
 - 偶像大師 百萬人演唱會！ 劇場時光
 - 偶像大師 Cinderella Girls Starlight Stage
+- 偶像大師 SideM GROWING STARS
 - LoveLive! 學園偶像祭
 - Project Sekai Colorful Stage! feat. 初音未來
 - HYPNOSISMIC -A.R.B-
@@ -109,6 +117,7 @@ YouTube是谷歌的視頻分享服務。存在別人上傳的音樂遊戲視頻�
 - D4DJ Groovy Mix
 - Uta Macross
 - Girl friend (Onpu)
+- Touhou Danmaku Kagura
 
 {{% notice warning %}}
 根據您拍攝播放視頻的設備，可能無法調整到觸摸位置。

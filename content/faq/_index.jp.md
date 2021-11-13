@@ -139,6 +139,14 @@ chapter: false
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
+<br>
+
+{{%expand "Q. カメラロールの動画がアプリ内で再生されなくなりました。これはバグですか？" %}}
+<div class="balloon">
+カメラロールから動画を削除すると再生されなくなります。<br>カメラロールに動画があっても再生されない場合、アプリ/端末の再起動で問題が解決しないか試してみてください。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
 
 ## その他
 
