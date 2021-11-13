@@ -118,6 +118,15 @@ chapter: false
 {{% /expand%}}
 <br>
 
+<!-- Q. YouTube動画の解像度が低いです。変更出来ませんか？ -->
+{{%expand "Q. 我的YouTube视频的分辨率太低了。 我有可能改变它吗？" %}}
+<div class="balloon">
+你可以在240p/360p/720p之间选择。 默认设置是360p。<br>你可以在视频列表左下方的 "常用设置>通信" 下找到设置。
+</div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. ◯◯のアプリ種類はいつ増えますか？ -->
 {{%expand "Q. \"xxx\" 应用类型何时才能增加？" %}}
 <div class="balloon">

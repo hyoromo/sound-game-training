@@ -106,6 +106,14 @@ chapter: false
 {{% /expand%}}
 <br>
 
+{{%expand "Q. YouTube動画の解像度が低いです。変更出来ませんか？" %}}
+<div class="balloon">
+元の動画解像度によりますが、240p/360p/720pから選べるようになっています。初期設定は360pです。<br>動画一覧画面の左下にある「共通設定 > 通信」から設定出来ます。
+</div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 {{%expand "Q. ◯◯のアプリ種類はいつ増えますか？" %}}
 <div class="balloon">
 最近のiOS端末もアス比種類が増えてきたため対応が難しくなっております。<br>

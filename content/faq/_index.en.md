@@ -118,6 +118,15 @@ You can set it from the "Folder Settings > Fast forward/rewind button" button at
 {{% /expand%}}
 <br>
 
+<!-- Q. YouTube動画の解像度が低いです。変更出来ませんか？ -->
+{{%expand "Q. The resolution of YouTube videos is low. Is it possible for me to change it?" %}}
+<div class="balloon">
+You can choose from 240p/360p/720p. The default setting is 360p.<br>You can configure the settings from "Common Settings > Video traffic" at the bottom left of the video list screen.
+</div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. ◯◯のアプリ種類はいつ増えますか？ -->
 {{%expand "Q. When will the \"xxx\" app type be added?" %}}
 <div class="balloon">
