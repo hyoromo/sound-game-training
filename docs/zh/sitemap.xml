@@ -16,6 +16,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/sound-game-training/ko/features/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/features/"
                 />
@@ -32,6 +37,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hyoromo.github.io/sound-game-training/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/sound-game-training/ko/faq/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -64,6 +74,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/sound-game-training/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/categories/"
                 />
@@ -85,6 +100,11 @@
                 rel="alternate"
                 hreflang="jp"
                 href="https://hyoromo.github.io/sound-game-training/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/sound-game-training/ko/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -112,6 +132,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/sound-game-training/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/tags/"
                 />
@@ -136,6 +161,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/sound-game-training/ko/chara/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/chara/"
                 />
@@ -157,6 +187,11 @@
                 rel="alternate"
                 hreflang="jp"
                 href="https://hyoromo.github.io/sound-game-training/jp/credits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/sound-game-training/ko/credits/"
                 />
     <xhtml:link
                 rel="alternate"

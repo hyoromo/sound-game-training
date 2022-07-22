@@ -12,6 +12,11 @@
 	</sitemap>
 	
 	<sitemap>
+	   	<loc>https://hyoromo.github.io/sound-game-training/ko/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>https://hyoromo.github.io/sound-game-training/zh/sitemap.xml</loc>
 		
 	</sitemap>

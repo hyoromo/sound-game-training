@@ -101,3 +101,18 @@ weight = 10
 name = "<i class='fas fa-sticky-note'></i> 片頭"
 url = "https://hyoromo.github.io/sound-game-training/zh-tw/credits"
 weight = 11
+
+[Languages.ko]
+title = "사운드 게임 교육"
+weight = 2
+languageName = "한국어"
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-smile'></i> 캐릭터 소개"
+url = "https://hyoromo.github.io/sound-game-training/ko/chara"
+weight = 10
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> 크레딧 표시"
+url = "https://hyoromo.github.io/sound-game-training/ko/credits"
+weight = 11
