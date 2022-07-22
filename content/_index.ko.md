@@ -13,8 +13,3 @@ title: index
 다운로드는 이하의 배너처로부터 실시해 주세요.<br>
 [![App store link](img_appstore_banner.ko.png#imgleft)](https://itunes.apple.com/ko/app/id1088874473?mt=8)
 <div class="clear clear_box"></div>
-
-
-기부는 아마존의 원하는 목록으로 수락합니다. 살기 위해서 사용해 받습니다.<br>
-[![App store link](img_donation_banner.ko.png#imgleft)](https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share)
-<div class="clear clear_box"></div>

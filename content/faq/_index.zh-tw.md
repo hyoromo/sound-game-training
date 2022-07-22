@@ -186,7 +186,8 @@ chapter: false
 <!-- Q. Donateは受け付けていますか？ -->
 {{%expand "Q. 你們接受捐贈嗎？" %}}
 <div class="balloon">
-不接受。
+我們接受來自左上方菜單捐贈鏈接的捐贈。<br>
+收到的捐款將用作生活的食物。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

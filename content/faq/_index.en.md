@@ -186,7 +186,8 @@ I have no plans to sell ad removal items.
 <!-- Q. Donateは受け付けていますか？ -->
 {{%expand "Q. Do you accept Donate?" %}}
 <div class="balloon">
-Not accepted.
+I accept from the donation link in the menu on the upper left.<br>
+The donations received will be used as food for living.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

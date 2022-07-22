@@ -13,7 +13,3 @@ title: index
 ダウンロードは以下のバナー先から行ってください。<br>
 [![App store link](img_appstore_banner.jp.png#imgleft)](https://itunes.apple.com/jp/app/id1088874473?mt=8)
 <div class="clear clear_box"></div>
-
-寄付はAmazon欲しい物リストで受け付けています。生きる糧とさせて頂きます。<br>
-[![App store link](img_donation_banner.jp.png#imgleft)](https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share)
-<div class="clear clear_box"></div>

@@ -57,6 +57,12 @@ name = "<i class='fas fa-sticky-note'></i> Credits"
 url = "https://hyoromo.github.io/sound-game-training/credits"
 weight = 11
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> Donation"
+url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
+weight = 12
+
+
 [Languages.jp]
 title = "音ゲートレーニング"
 weight = 2
@@ -71,6 +77,12 @@ weight = 10
 name = "<i class='fas fa-sticky-note'></i> クレジット"
 url = "https://hyoromo.github.io/sound-game-training/jp/credits"
 weight = 11
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> 寄付"
+url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
+weight = 12
+
 
 [Languages.zh]
 title = "音乐游戏培训"
@@ -87,6 +99,12 @@ name = "<i class='fas fa-sticky-note'></i> 片头"
 url = "https://hyoromo.github.io/sound-game-training/zh/credits"
 weight = 11
 
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> 捐赠"
+url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
+weight = 12
+
+
 [Languages.zh-TW]
 title = "音樂遊戲培訓"
 weight = 4
@@ -102,6 +120,12 @@ name = "<i class='fas fa-sticky-note'></i> 片頭"
 url = "https://hyoromo.github.io/sound-game-training/zh-tw/credits"
 weight = 11
 
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> 捐贈"
+url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
+weight = 12
+
+
 [Languages.ko]
 title = "사운드 게임 교육"
 weight = 2
@@ -116,3 +140,8 @@ weight = 10
 name = "<i class='fas fa-sticky-note'></i> 크레딧 표시"
 url = "https://hyoromo.github.io/sound-game-training/ko/credits"
 weight = 11
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-coffee'></i> 기부"
+url = "https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share"
+weight = 12

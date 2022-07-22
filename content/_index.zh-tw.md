@@ -13,7 +13,3 @@ title: index
 請點擊下面的橫幅下載軟件。<br>
 [![App store link](img_appstore_banner.zh-tw.png#imgleft)](https://apps.apple.com/tw/app/id1088874473)
 <div class="clear clear_box"></div>
-
-可以通過亞馬遜願望清單進行捐贈。它幫助我生活。<br>
-[![App store link](img_donation_banner.zh-tw.png#imgleft)](https://www.amazon.jp/hz/wishlist/ls/370CVCOUAFLVK?ref_=wl_share)
-<div class="clear clear_box"></div>
