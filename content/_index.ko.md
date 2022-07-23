@@ -11,5 +11,5 @@ title: index
 어려워서 Full combo 할 수 없는 음악 게임을 「저속」에 「어려운 부분을 반복」으로 몇번이라도 의사적으로 플레이 할 수 있습니다!<br>화면 왼쪽 상단의 메뉴에 앱 정보를 게재하고 있습니다.
 
 다운로드는 이하의 배너처로부터 실시해 주세요.<br>
-[![App store link](img_appstore_banner.ko.png#imgleft)](https://itunes.apple.com/ko/app/id1088874473?mt=8)
+[![App store link](img_appstore_banner.ko.png#imgleft)](https://itunes.apple.com/kr/app/id1088874473?mt=8)
 <div class="clear clear_box"></div>
