@@ -156,7 +156,7 @@ chapter: false
 <br>
 
 <!-- Q. YouTubeの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
-{{%expand "Q. YouTubeの動画がアプリ内で再生されなくなりました。これはバグですか？" %}}
+{{%expand "Q. YouTube視頻不再在應用中播放。這是一個bug嗎？" %}}
 <div class="balloon">
 這很可能是一個bug。請通過應用中的 "聯繫信息" 與我們聯繫，包括無法播放的視頻的URL。
 </div>
