@@ -196,7 +196,9 @@ The donations received will be used as food for living.
 <!-- Q. Androidアプリは配信しないのですか？ -->
 {{%expand "Q. Will you be distributing the Android app?" %}}
 <div class="balloon">
-There are no plans to distribute it at the moment.
+Distribution started on 08/06/2022.<br>
+For the Android version, please refer to the following website.<br>
+<a href= "https://hyoromo.github.io/sound-game-training-android/" >https://hyoromo.github.io/sound-game-training-android/</a><br>
 </div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

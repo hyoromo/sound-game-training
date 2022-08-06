@@ -196,8 +196,9 @@ chapter: false
 <!-- Q. Androidアプリは配信しないのですか？ -->
 {{%expand "Q. Android 앱이 스토어 게재되지 않습니까?" %}}
 <div class="balloon">
-전달할 예정은 지금 없습니다.<br>
-스스로 사용하기 위해 개발하고 있는 앱이므로, 평소 사용하지 않는 Android용으로 개발하는 동기 부여가 없습니다. . .
+2022/08/06부터 유통을 시작했습니다.<br>
+Android 버전에 관해서는 다음 사이트를 확인하십시오.<br>
+<a href= "https://hyoromo.github.io/sound-game-training-android/ko/" >https://hyoromo.github.io/sound-game-training-android/ko/</a><br>
 </div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

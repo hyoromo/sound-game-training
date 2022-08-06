@@ -13,3 +13,7 @@ title: index
 ダウンロードは以下のバナー先から行ってください。<br>
 [![App store link](img_appstore_banner.jp.png#imgleft)](https://itunes.apple.com/jp/app/id1088874473?mt=8)
 <div class="clear clear_box"></div>
+
+Android版に関しては以下のサイトをご確認ください。<br>
+[![Site link](img_banner_android.jp.png#imgleft)](https://hyoromo.github.io/sound-game-training-android/jp/)
+<div class="clear clear_box"></div>

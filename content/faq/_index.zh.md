@@ -196,7 +196,9 @@ chapter: false
 <!-- Q. Androidアプリは配信しないのですか？ -->
 {{%expand "Q. 你们会在安卓系统上发布应用吗？" %}}
 <div class="balloon">
-目前还没有发行的计划。
+2022年8月6日开始分发。<br>
+关于Android版本，见以下网站。<br>
+<a href= "https://hyoromo.github.io/sound-game-training-android/zh/" >https://hyoromo.github.io/sound-game-training-android/zh/</a><br>
 </div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

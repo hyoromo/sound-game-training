@@ -177,8 +177,9 @@ chapter: false
 
 {{%expand "Q. Androidアプリは配信しないんですか？" %}}
 <div class="balloon">
-配信する予定は今の所ありません。<br>
-自分で使うために開発しているアプリなので、普段使いしていないAndroid向けに開発するモチベーションを持っていません。。。
+2022/08/06から配信開始しました。<br>
+Android版に関しては以下のサイトをご確認ください。<br>
+<a href= "https://hyoromo.github.io/sound-game-training-android/jp/" >https://hyoromo.github.io/sound-game-training-android/jp/</a><br>
 </div>
-<div class="box"><img src="navi_004.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

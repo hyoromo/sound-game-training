@@ -13,3 +13,7 @@ You can play difficult and uncompleted music games as many times as you like wit
 Please download from the banner below.<br>
 [![App store link](img_appstore_banner.en.png#imgleft)](https://itunes.apple.com/us/app/id1088874473?mt=8)
 <div class="clear clear_box"></div>
+
+For the Android version, please refer to the following website.<br>
+[![Site link](img_banner_android.en.png#imgleft)](https://hyoromo.github.io/sound-game-training-android/)
+<div class="clear clear_box"></div>

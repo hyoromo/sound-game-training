@@ -13,3 +13,7 @@ title: index
 다운로드는 이하의 배너처로부터 실시해 주세요.<br>
 [![App store link](img_appstore_banner.ko.png#imgleft)](https://itunes.apple.com/kr/app/id1088874473?mt=8)
 <div class="clear clear_box"></div>
+
+Android 버전에 관해서는 다음 사이트를 확인하십시오.<br>
+[![Site link](img_banner_android.ko.png#imgleft)](https://hyoromo.github.io/sound-game-training-android/ko/)
+<div class="clear clear_box"></div>
