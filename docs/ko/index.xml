@@ -5,11 +5,7 @@
     <link>https://hyoromo.github.io/sound-game-training/ko/</link>
     <description>Recent content in index on 사운드 게임 교육 for iOS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://hyoromo.github.io/sound-game-training/ko/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://hyoromo.github.io/sound-game-training/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>캐릭터 소개</title>
       <link>https://hyoromo.github.io/sound-game-training/ko/chara/</link>

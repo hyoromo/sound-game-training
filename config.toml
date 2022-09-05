@@ -2,6 +2,7 @@ baseURL = "https://hyoromo.github.io/sound-game-training/"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
+googleAnalytics = 'G-90BH3NS09V'
 
 defaultContentLanguage = "en"
 metaDataFormat = "yaml"

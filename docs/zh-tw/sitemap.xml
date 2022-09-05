@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://hyoromo.github.io/sound-game-training/zh-tw/features/</loc>
     <xhtml:link
@@ -29,9 +28,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/features/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training/zh-tw/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -58,9 +55,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/faq/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -87,9 +82,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
@@ -116,9 +109,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -145,9 +136,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training/zh-tw/chara/</loc>
     <xhtml:link
                 rel="alternate"
@@ -174,9 +163,7 @@
                 hreflang="zh-tw"
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/chara/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training/zh-tw/credits/</loc>
     <xhtml:link
                 rel="alternate"
@@ -204,5 +191,4 @@
                 href="https://hyoromo.github.io/sound-game-training/zh-tw/credits/"
                 />
   </url>
-  
 </urlset>
