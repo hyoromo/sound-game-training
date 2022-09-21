@@ -168,8 +168,7 @@ chapter: false
 
 {{%expand "Q. 寄付は受け付けていますか？" %}}
 <div class="balloon">
-左上のメニューの寄付リンク先から受け付けています。<br>
-頂いた寄付は生きるための糧とさせて頂きます。
+左上のメニューの投げ銭リンク先から受け付けています。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}

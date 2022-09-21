@@ -186,8 +186,7 @@ chapter: false
 <!-- Q. Donateは受け付けていますか？ -->
 {{%expand "Q. 기부는 받고 있습니까?" %}}
 <div class="balloon">
-왼쪽 상단 메뉴의 기부 링크에서 접수합니다.<br>
-받은 기부는 살기 위한 양식으로 하겠습니다.
+왼쪽 상단 메뉴의 기부 링크에서 접수합니다.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
