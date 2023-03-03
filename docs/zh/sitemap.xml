@@ -164,6 +164,33 @@
                 href="https://hyoromo.github.io/sound-game-training/zh/chara/"
                 />
   </url><url>
+    <loc>https://hyoromo.github.io/sound-game-training/zh/in-app-purchase-terms/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyoromo.github.io/sound-game-training/in-app-purchase-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://hyoromo.github.io/sound-game-training/jp/in-app-purchase-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/sound-game-training/ko/in-app-purchase-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hyoromo.github.io/sound-game-training/zh-tw/in-app-purchase-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hyoromo.github.io/sound-game-training/zh/in-app-purchase-terms/"
+                />
+  </url><url>
     <loc>https://hyoromo.github.io/sound-game-training/zh/tip/</loc>
     <xhtml:link
                 rel="alternate"
