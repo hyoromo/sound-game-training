@@ -10,7 +10,7 @@ chapter: false
 It appears when there is a tutorial or announcement.<br>
 <br>
 Check the [credits](https://hyoromo.github.io/sound-game-training/credits/) for information on the character designer.<br>
-The following illustrations are the preliminary design and rough sketches for the application.<br>
+The following images are preliminary designs and rough sketches for the application.<br>
 
 ### Design proposal
 

@@ -171,15 +171,25 @@ chapter: false
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
+<br>
+
+<!-- Q. 動画画面で動画位置がおかしな場所に表示されます。これは直せませんか？ -->
+{{%expand "Q. 視頻位置出現在視頻屏幕上的一個奇怪的地方。這個問題可以解決嗎？" %}}
+<div class="balloon">
+在視頻屏幕上進入 "播放>停止" 後，觸摸左下角的 "網格圖標"，然後滑動屏幕來移動位置。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
 
 ## 其他
 
 <!-- Q. 広告はアプリ内課金で消せませんか？ -->
 {{%expand "Q. 應用內購買不能隱藏廣告嗎？" %}}
 <div class="balloon">
-我們不打算出售廣告刪除項目。
+你可以通過加入成為支持者來關閉它們。<br>
+欲了解更多信息，請點擊視頻列表屏幕底部的 "隱藏廣告" 按鈕。
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

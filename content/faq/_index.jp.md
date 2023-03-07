@@ -155,14 +155,24 @@ chapter: false
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
+<br>
+
+{{%expand "Q. 動画画面で動画位置がおかしな場所に表示されます。これは直せませんか？" %}}
+<div class="balloon">
+動画画面で「再生 > 停止」と行った後、左下にある「グリッド状のアイコン」をタッチ頂き、画面をスワイプさせる事で位置移動可能です。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+
 
 ## その他
 
 {{%expand "Q. 広告はアプリ内課金で消せませんか？" %}}
 <div class="balloon">
-課金導入には特定商取引法に基づき住所を公開する必要があるため、課金追加して広告除去アイテムの販売は行う予定がありません。
+サポーター加入頂けると消せます。<br>
+詳しくは動画一覧画面の下にある「広告非表示」ボタンをタップしてご確認ください。
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

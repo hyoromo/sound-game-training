@@ -171,15 +171,25 @@ chapter: false
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
+<br>
+
+<!-- Q. 動画画面で動画位置がおかしな場所に表示されます。これは直せませんか？ -->
+{{%expand "Q. 동영상 화면에서 동영상 위치가 이상한 곳에 표시됩니다. 어떻게 고칠 수 있나요?" %}}
+<div class="balloon">
+동영상 화면에서 '재생 > 정지'를 누른 후 왼쪽 하단에 있는 '격자형 아이콘'을 터치하여 화면을 스와이프하면 위치 이동이 가능합니다.
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
 
 ## 기타
 
 <!-- Q. 広告はアプリ内課金で消せませんか？ -->
 {{%expand "Q. 광고는 인앱 결제로 지울 수 없습니까?" %}}
 <div class="balloon">
-과금 도입에는 특정 상거래법에 따라 주소를 공개해야 하기 때문에 과금 추가하고 광고 제거 아이템을 판매할 예정이 없습니다.
+서포터즈에 가입하시면 광고를 없앨 수 있습니다.<br>
+자세한 내용은 동영상 목록 화면 하단의 '광고 숨기기' 버튼을 눌러 확인하시기 바랍니다.
 </div>
-<div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

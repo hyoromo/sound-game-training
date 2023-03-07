@@ -10,11 +10,11 @@ You can check the notes by playing back the video, and you can also pseudo-play 
 
 ## Adding a Playback Video
 
-There are four ways to add videos to be played in the app.
+There are four ways to add videos to play in the application.
 
-#### Camera roll
+#### Camera Roll
 
-The camera roll is the place where videos are saved when you take a video on your device. You can view it from the Photos app.<br>
+The Camera Roll is the place where videos are saved when you take a video on your device. You can view it from the Photos app.<br>
 Here's how you can add them in this app.
 
 1. Open the "Video List" screen
@@ -27,8 +27,8 @@ After this step, you can return to the "Video List" screen and your added videos
 
 #### iCloud Drive
 
-iCloud Drive is an online storage service provided by Apple. You can view it from the Files app.<br>
-Here's how you can add them in this app.
+iCloud Drive is an online storage service provided by Apple. You can view it in the Files app.<br>
+Here's how to add them in this application.
 
 1. Open the "Video List" screen
 2. Click on the "Add Video" button at the bottom right of the screen
@@ -40,9 +40,9 @@ After this step, you can return to the "Video List" screen and your added videos
 
 #### Transfer from PC
 
-It's a way to transfer videos from the Music (formerly iTunes) app on your PC to your device's app storage.<br>
-"<a href= "https://support.apple.com/en-us/HT201301" >Use iTunes to share files between your computer and your iOS or iPadOS device</a>" page will tell you how to transfer it to the app, please refer here.<br>
-Here's how you can add them in this app.
+It's a way to transfer videos from the Music (formerly iTunes) application on your PC to the application storage on your device.<br>
+"<a href= "https://support.apple.com/en-us/HT201301" >Use iTunes to share files between your computer and your iOS or iPadOS device</a>" page will tell you how to transfer it to the app, please see here.<br>
+Here's how to add them in this application.
 
 1. Open the "Video List" screen
 2. Click on the "Add Video" button at the bottom right of the screen
@@ -52,52 +52,52 @@ Here's how you can add them in this app.
 
 After this step, you can return to the "Video List" screen and your added videos will be in the list.
 
-#### Play YouTube video
+#### Play YouTube Video
 
-YouTube is a video sharing service from Google. Videos of sound games uploaded by others exist.<br>
-Here's how you can add them in this app.
+YouTube is a video sharing service provided by Google. There are videos of sound games uploaded by others.<br>
+Here's how to add them in this application.
 
 1. Open the "Video List" screen
 2. Click on the "Add Video" button at the bottom right of the screen
 3. Select "YouTube" from the list of alternatives
-4. Open the video page you want to add from the YouTube site
+4. Go to the video page you want to add on the YouTube site
 5. Click the "Add video" button at the bottom right of the video page
 6. Enter your registration information and click the "Add" button
 
 After this step, you can return to the "Video List" screen and your added videos will be in the list.
 
 {{% notice note %}}
-Since the app does not download YouTube videos, a traffic volume is generated every time a video is played on this app.
+Since the application does not download YouTube videos, traffic is generated every time a video is played in this application.
 {{% /notice %}}
 
 
-## Pseudo-play
+## Pseudo game
 
 You won't be paused by tapping on the playing video screen.<br>
 So you can play a pseudo sound game.<br>
 
-There are many other features that make it easier to practice.
+There are many other features that make practicing easier.
 
-- Adjust the video playback speed<br>You can adjust the playback speed in the range of 0.25-2.00x speed
-- Adjust the start/end position of video playback<br>You can set the start and end of the play range to focus on the difficult parts of the game
-- Zoom in/out and adjust the position of the video<br>Scaling and positioning can be done to make the video fit the device resolution
+- Adjust the video playback speed<br>You can adjust the playback speed in the range of 0.25-2.00x speed.
+- Adjust the start/end position of video playback<br>You can set the start and end of the play area to focus on the difficult parts of the game.
+- Zoom in/out and adjust the position of the video<br>Scaling and positioning can be done to make the video fit the device resolution.
 - Flipping the video screen<br>The video screen can be flipped left to right
-- Support for both portrait and landscape video<br>You can fix your device orientation in portrait or landscape mode
-- Shortcut button to rewind/fast-forward for a few seconds during playback<br>The shortcut button is set up so that you can easily manipulate the time without having to pause and operate the seek bar
+- Support for both portrait and landscape video<br>You can fix your device orientation in portrait or landscape mode.
+- Shortcut key to rewind/fast forward a few seconds during playback<br>The shortcut key is set up so that you can easily manipulate the time without having to pause and use the seek bar.
 
 ## Bookmark the playback position
 
 ![video scale](img_video_bookmark.png#imgleft)
 <div class="clear clear_box"></div>
 There is a function to register the start/end position of video playback as a bookmark.<br>
-By setting the start/end position of playback for each number, you can quickly switch the playback position for the part you want to practice.<br>
+By setting the playback start/end position for each number, you can quickly change the playback position for the part you want to practise.<br>
 
-## Supports a variety of game touchlines
+## Supports a variety of game lines
 
 ![video scale](img_video_scale.png#imgleft)
 <div class="clear clear_box"></div>
 The touchline of the sound game is often different for each device. The touchline position of the desired video and the device may be different.<br>
-To address this issue, the app supports a guide display to help you align the touchline on your device.<br><br>
+To solve this problem, the app supports a guide to help you align the touchline on your device.<br><br>
 Supported games are listed below.<br>
 
 - Deemo
@@ -120,5 +120,5 @@ Supported games are listed below.<br>
 - Touhou Danmaku Kagura
 
 {{% notice warning %}}
-Depending on the device where you filmed the play video, you may not be able to adjust to the touch position.
+Depending on the device where you recorded the playback video, you may not be able to adjust the touch position.
 {{% /notice %}}
