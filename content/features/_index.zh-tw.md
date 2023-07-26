@@ -109,6 +109,7 @@ YouTube是谷歌的視頻分享服務。存在別人上傳的音樂遊戲視頻�
 - 偶像大師 Cinderella Girls Starlight Stage
 - 偶像大師 SideM GROWING STARS
 - LoveLive! 學園偶像祭
+- LoveLive! 學園偶像祭2
 - Project Sekai Colorful Stage! feat. 初音未來
 - HYPNOSISMIC -A.R.B-
 - 偶像夢幻祭2
@@ -118,6 +119,7 @@ YouTube是谷歌的視頻分享服務。存在別人上傳的音樂遊戲視頻�
 - Uta Macross
 - Girl friend (Onpu)
 - Touhou Danmaku Kagura
+- World Dai Star -Stellarium of Dreams-
 
 {{% notice warning %}}
 根據您拍攝播放視頻的設備，可能無法調整到觸摸位置。

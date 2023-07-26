@@ -5,7 +5,7 @@ title: index
 ![top banner](top_banner.en.png)
 
 {{% notice info %}}
-This page is based on the content of the v2.2.12 application. Please note that there may be differences from the latest version.
+This page is based on the content of the v2.4.1 application. Please note that there may be differences from the latest version.
 {{% /notice %}}
 
 You can play difficult and unfinished music games with videos as many times as you like.<br>App information is listed in the menu at the top left of the screen.

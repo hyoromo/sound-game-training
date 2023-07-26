@@ -104,6 +104,7 @@ YouTube 동영상을 다운로드하는 것은 아니므로 본 앱에서 동영
 - 아이돌 마스터 밀리언 라이브! 시어터 데이즈
 - 아이돌 마스터 SideM GROWING STARS
 - 러브라이브! School Idol festival
+- 러브라이브! School Idol festival 2
 - 뱅드림! 걸즈 밴드 파티!
 - 프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠
 - Deemo
@@ -118,6 +119,7 @@ YouTube 동영상을 다운로드하는 것은 아니므로 본 앱에서 동영
 - Uta Macross
 - Girl friend (Onpu)
 - Touhou Danmaku Kagura
+- World Dai Star -Stellarium of Dreams-
 
 {{% notice warning %}}
 플레이 동영상을 촬영한 단말에 따라서는 판정 장소에 맞추지 못하는 경우가 있습니다.

@@ -110,6 +110,7 @@ Supported games are listed below.<br>
 - THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE
 - THE IDOLM@STER SideM GROWING STARS
 - Love Live! School idol festival
+- Love Live! School idol festival 2
 - HYPNOSISMIC -A.R.B-
 - Ensemble Stars!! Music
 - Re:Stage! Prism Step
@@ -118,6 +119,7 @@ Supported games are listed below.<br>
 - Uta Macross
 - Girlfriend (note)
 - Touhou Danmaku Kagura
+- World Dai Star -Stellarium of Dreams-
 
 {{% notice warning %}}
 Depending on the device where you recorded the playback video, you may not be able to adjust the touch position.
