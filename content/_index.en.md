@@ -8,6 +8,8 @@ title: index
 This page is based on the content of the v2.4.1 application. Please note that there may be differences from the latest version.
 {{% /notice %}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F5xWW8p9Iuo?si=3iYORZ0z8M9gu1WJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 You can play difficult and unfinished music games with videos as many times as you like.<br>App information is listed in the menu at the top left of the screen.
 
 Please download from the banner below.<br>

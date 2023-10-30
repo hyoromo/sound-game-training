@@ -8,6 +8,8 @@ title: index
 本サイトは v2.4.1 のアプリ内容を元に記載しています。最新版と差異があるかもしれない点にご注意ください。
 {{% /notice %}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBetOO7Kmjo?si=eeaK8Ky4NyN8FxoF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 本アプリでは難しくてフルコンボ出来ない音楽/リズムゲームを『スロー』に『難所を繰り返し』で『何度でも』疑似プレイが行えます！<br>画面左上のメニューにアプリ情報を掲載しています。
 
 ダウンロードは以下のバナー先から行ってください。<br>

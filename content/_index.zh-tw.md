@@ -8,6 +8,8 @@ title: index
 本網站以 v2.4.1 版本的應用內容為基礎。請注意，可能與最新版本有差異。
 {{% /notice %}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4L4d0Ssx5Pk?si=6SYDAtaH0mHEgx3X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 您可以使用視頻隨意玩困難和未完成的音樂遊戲。<br>應用信息在屏幕左上方的菜單中列出。
 
 請點擊下面的橫幅下載軟件。<br>
