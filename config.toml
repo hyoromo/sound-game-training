@@ -72,6 +72,12 @@ name = "<i class='fas fa-sticky-note'></i> Credits"
 url = "https://hyoromo.github.io/sound-game-training/credits"
 weight = 12
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> Other apps"
+url = "https://apps.apple.com/us/developer/hiroki-kawakami/id586928741"
+weight = 99
+
+
 
 [Languages.jp]
 title = "音ゲートレーニング for iOS"
@@ -97,6 +103,11 @@ weight = 11
 name = "<i class='fas fa-sticky-note'></i> クレジット"
 url = "https://hyoromo.github.io/sound-game-training/jp/credits"
 weight = 12
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 他のアプリ"
+url = "https://apps.apple.com/jp/developer/hiroki-kawakami/id586928741"
+weight = 99
 
 
 [Languages.zh]
@@ -124,6 +135,11 @@ name = "<i class='fas fa-sticky-note'></i> 片头"
 url = "https://hyoromo.github.io/sound-game-training/zh/credits"
 weight = 12
 
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 开发者的其他应用"
+url = "https://apps.apple.com/cn/developer/hiroki-kawakami/id586928741"
+weight = 99
+
 
 [Languages.zh-TW]
 title = "音樂遊戲培訓 for iOS"
@@ -150,6 +166,11 @@ name = "<i class='fas fa-sticky-note'></i> 片頭"
 url = "https://hyoromo.github.io/sound-game-training/zh-tw/credits"
 weight = 12
 
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 開發者的其他應用"
+url = "https://apps.apple.com/tw/developer/hiroki-kawakami/id586928741"
+weight = 99
+
 
 [Languages.ko]
 title = "사운드 게임 교육 for iOS"
@@ -175,3 +196,8 @@ weight = 11
 name = "<i class='fas fa-sticky-note'></i> 크레딧 표시"
 url = "https://hyoromo.github.io/sound-game-training/ko/credits"
 weight = 12
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 개발자의 다른 앱"
+url = "https://apps.apple.com/kr/developer/hiroki-kawakami/id586928741"
+weight = 99
