@@ -5,7 +5,7 @@ title: index
 ![top banner](top_banner.ko.png)
 
 {{% notice info %}}
-본 사이트는 v2.4.1 의 앱 내용을 바탕으로 기재하고 있습니다. 최신판과 차이가 있을지도 모른다는 점에 주의해 주세요.
+본 사이트는 v2.4.4 의 앱 내용을 바탕으로 기재하고 있습니다. 최신판과 차이가 있을지도 모른다는 점에 주의해 주세요.
 {{% /notice %}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gWCQy1Gw9mE?si=3kGmSwBIIpENFz1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

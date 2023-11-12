@@ -103,6 +103,7 @@ YouTube 동영상을 다운로드하는 것은 아니므로 본 앱에서 동영
 - 아이돌 마스터 신데렐라 걸즈
 - 아이돌 마스터 밀리언 라이브! 시어터 데이즈
 - 아이돌 마스터 SideM GROWING STARS
+- 아이돌 마스터 샤이니 컬러즈 Song for Prism
 - 러브라이브! School Idol festival
 - 러브라이브! School Idol festival 2
 - 뱅드림! 걸즈 밴드 파티!

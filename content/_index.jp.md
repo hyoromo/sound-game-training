@@ -5,7 +5,7 @@ title: index
 ![top banner](top_banner.jp.png)
 
 {{% notice info %}}
-本サイトは v2.4.1 のアプリ内容を元に記載しています。最新版と差異があるかもしれない点にご注意ください。
+本サイトは v2.4.4 のアプリ内容を元に記載しています。最新版と差異があるかもしれない点にご注意ください。
 {{% /notice %}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DBetOO7Kmjo?si=eeaK8Ky4NyN8FxoF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -108,6 +108,7 @@ YouTube是谷歌的視頻分享服務。存在別人上傳的音樂遊戲視頻�
 - 偶像大師 百萬人演唱會！ 劇場時光
 - 偶像大師 Cinderella Girls Starlight Stage
 - 偶像大師 SideM GROWING STARS
+- 偶像大师 閃耀色彩 Song for Prism
 - LoveLive! 學園偶像祭
 - LoveLive! 學園偶像祭2
 - Project Sekai Colorful Stage! feat. 初音未來

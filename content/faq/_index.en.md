@@ -121,7 +121,7 @@ You can set it using the "Folder Settings > Fast forward/rewind button" button a
 <!-- Q. YouTube動画の解像度が低いです。変更出来ませんか？ -->
 {{%expand "Q. The resolution of my YouTube videos is low. Can I change it?" %}}
 <div class="balloon">
-You can choose from 240p/360p/720p. The default setting is 360p.<br>You can configure the settings from "Common Settings > Video traffic" at the bottom left of the video list screen.
+You can choose from 240p/360p/720p. The default setting is 360p.<br>You can change the YouTube quality from the gear icon in the bottom left of the video screen.
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -164,6 +164,15 @@ It's most likely a bug. Please contact us from the "Contact" section of the app,
 {{% /expand%}}
 <br>
 
+<!-- Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？ -->
+{{%expand "Q. When I use the fast forward/rewind buttons or play a video, it pauses. Is this a bug?" %}}
+<div class="balloon">
+For YouTube videos, the resolution may be too high for smooth playback. You can change the YouTube quality from the gear icon in the bottom left of the video screen.<br>For other videos, the resolution of the original video file may be too high. Please re-import the video at a lower resolution.
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 <!-- Q. カメラロールの動画がアプリ内で再生されなくなりました。これはバグですか？ -->
 {{%expand "Q. Videos from my camera roll no longer play in the app. Is this a bug?" %}}
 <div class="balloon">
@@ -190,6 +199,15 @@ You can turn them off by joining as a supporter.<br>
 For details, please tap the "Hide Ads" button at the bottom of the video list screen.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+<!-- Q. 配信または動画でこのアプリを使ってもいいですか？ -->
+{{%expand "Q. Can I use this app on my stream or in videos?" %}}
+<div class="balloon">
+Please feel free to use it. No permission or attribution is required.<br>However, any attribution is greatly appreciated by the developer.
+</div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

@@ -5,7 +5,7 @@ title: index
 ![top banner](top_banner.zh-tw.png)
 
 {{% notice info %}}
-本網站以 v2.4.1 版本的應用內容為基礎。請注意，可能與最新版本有差異。
+本網站以 v2.4.4 版本的應用內容為基礎。請注意，可能與最新版本有差異。
 {{% /notice %}}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4L4d0Ssx5Pk?si=6SYDAtaH0mHEgx3X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

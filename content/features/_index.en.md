@@ -109,6 +109,7 @@ Supported games are listed below.<br>
 - THE IDOLM@STER MILLION LIVE! Theater Days
 - THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE
 - THE IDOLM@STER SideM GROWING STARS
+- THE IDOLM@STER SHINY COLORS Song for Prism
 - Love Live! School idol festival
 - Love Live! School idol festival 2
 - HYPNOSISMIC -A.R.B-

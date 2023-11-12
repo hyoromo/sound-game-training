@@ -108,7 +108,7 @@ chapter: false
 
 {{%expand "Q. YouTube動画の解像度が低いです。変更出来ませんか？" %}}
 <div class="balloon">
-元の動画解像度によりますが、240p/360p/720pから選べるようになっています。初期設定は360pです。<br>動画一覧画面の左下にある「共通設定 > 通信」から設定出来ます。
+元の動画解像度によりますが、240p/360p/720pから選べるようになっています。初期設定は360pです。<br>動画画面の左下にある歯車からYouTube画質を変更できます。
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -121,6 +121,7 @@ chapter: false
 </div>
 <div class="box"><img src="navi_003.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
+
 
 ## 要望/バグの連絡
 
@@ -149,6 +150,14 @@ chapter: false
 {{% /expand%}}
 <br>
 
+{{%expand "Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？" %}}
+<div class="balloon">
+YouTubeの場合は動画解像度が高く、再生が間に合っていない可能性が御座います。動画画面の左下にある歯車からYouTube画質を変更できます。<br>それ以外の動画の場合、動画自体の解像度が高すぎる可能性が御座います。動画解像度を落として再度取り込み直してください。
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
 {{%expand "Q. カメラロールの動画がアプリ内で再生されなくなりました。これはバグですか？" %}}
 <div class="balloon">
 カメラロールから動画を削除すると再生されなくなります。<br>写真をiCloudへ保存する設定にすると後日再生不可能になります。iCloudにアップロードされた動画の方をアプリへ登録ください。<br>カメラロールに動画があっても再生されない場合、アプリ/端末の再起動で問題が解決しないか試してみてください。
@@ -173,6 +182,15 @@ chapter: false
 詳しくは動画一覧画面の下にある「広告非表示」ボタンをタップしてご確認ください。
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+{{%expand "Q. 配信または動画でこのアプリを使ってもいいですか？" %}}
+<div class="balloon">
+是非お使ってください。許諾/クレジット表記ともに不要です。<br>
+クレジット表記して頂けると開発者が凄く喜びます。
+</div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

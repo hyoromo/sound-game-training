@@ -119,7 +119,7 @@ chapter: false
 <!-- Q. YouTube動画の解像度が低いです。変更出来ませんか？ -->
 {{%expand "Q. YouTube 동영상의 해상도가 낮습니다. 변경할 수 없습니까?" %}}
 <div class="balloon">
-원래의 동영상 해상도에 따라 다르지만 240p/360p/720p 중에서 선택할 수 있습니다. 초기 설정은 360p입니다.<br>동영상 목록 화면의 왼쪽 하단에있는 "공통 설정> 통신"에서 설정할 수 있습니다.
+원래의 동영상 해상도에 따라 다르지만 240p/360p/720p 중에서 선택할 수 있습니다. 초기 설정은 360p입니다.<br>동영상 화면 좌측 하단의 톱니바퀴 아이콘에서 YouTube 화질을 변경할 수 있습니다.
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -149,6 +149,15 @@ chapter: false
 {{%expand "Q. 버그는 어디에서 보고해야 하나요?" %}}
 <div class="balloon">
 앱의 동영상 목록 화면 왼쪽 하단의 "문의"에서 보내주십시오.<br>AppStore의 리뷰라고 연락이 어렵기 때문에 대응할 수 없는 일이 있습니다. 그래서 Email로 문의하여받을 수 있습니다.
+</div>
+<div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+<!-- Q. 早送り/巻き戻しボタンを使用したり、動画を再生していると一時停止します。これはバグですか？ -->
+{{%expand "Q. 빨리 감기/되감기 버튼을 사용하거나 동영상을 재생하면 일시 정지합니다. 이것은 버그인가요?" %}}
+<div class="balloon">
+YouTube의 경우 동영상 해상도가 높아 재생이 따라가지 못할 가능성이 있습니다. 동영상 화면 좌측 하단의 톱니바퀴 아이콘에서 YouTube 화질을 변경할 수 있습니다.<br>다른 동영상의 경우 원본 동영상 해상도가 너무 높을 가능성이 있습니다. 해상도를 낮춰 다시 가져오세요.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
@@ -190,6 +199,15 @@ chapter: false
 자세한 내용은 동영상 목록 화면 하단의 '광고 숨기기' 버튼을 눌러 확인하시기 바랍니다.
 </div>
 <div class="box"><img src="navi_001.png" alt="navi" class="img-right"></div>
+{{% /expand%}}
+<br>
+
+<!-- Q. 配信または動画でこのアプリを使ってもいいですか？ -->
+{{%expand "Q. 방송이나 동영상에서 이 앱을 사용해도 될까요?" %}}
+<div class="balloon">
+꼭 사용하세요. 허락/크레딧 표기는 필요 없습니다.<br>다만, 크레딧을 표기해주시면 개발자가 매우 기뻐합니다.
+</div>
+<div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
 <br>
 

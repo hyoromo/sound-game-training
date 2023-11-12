@@ -108,6 +108,7 @@ YouTube是谷歌的视频分享服务。存在别人上传的音乐游戏视频�
 - 偶像大师 MILLION LIVE! Theater Days
 - 偶像大师 CINDERELLA GIRLS STARLIGHT STAGE
 - 偶像大师 SideM GROWING STARS
+- 偶像大师 闪耀色彩 Song for Prism
 - Love Live! 学园偶像祭
 - Love Live! 学园偶像祭2
 - Project Sekai Colorful Stage! feat. 初音未来
