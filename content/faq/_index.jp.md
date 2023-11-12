@@ -188,7 +188,7 @@ YouTubeの場合は動画解像度が高く、再生が間に合っていない�
 {{%expand "Q. 配信または動画でこのアプリを使ってもいいですか？" %}}
 <div class="balloon">
 是非お使ってください。許諾/クレジット表記ともに不要です。<br>
-クレジット表記して頂けると開発者が凄く喜びます。
+アプリ名を表示して頂けると開発者が凄く喜びます。
 </div>
 <div class="box"><img src="navi_002.png" alt="navi" class="img-right"></div>
 {{% /expand%}}
